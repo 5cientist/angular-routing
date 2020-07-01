@@ -11,6 +11,6 @@ app.config(function($routeProvider) {
     templateUrl : "templates/blue.html"
   })
   .when("/green", {
-    templateUrl : "templates/green.htm"
+    templateUrl : "templates/green.html"
   });
 });
