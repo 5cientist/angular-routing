@@ -25,13 +25,13 @@
         <a class="nav-link" href="#/!">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#/!red">Red</a>
+        <a class="nav-link" href="#!red">Red</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="#/!blue">Blue</a>
+        <a class="nav-link" href="#!blue">Blue</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="#/!green">Green</a>
+        <a class="nav-link" href="#!green">Green</a>
       </li>
       
     </ul>
