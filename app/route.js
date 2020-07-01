@@ -2,15 +2,15 @@ var app = angular.module("myApp", ["ngRoute"]);
 app.config(function($routeProvider) {
   $routeProvider
   .when("/", {
-    templateUrl : "/main.htm"
+    templateUrl : "main.html"
   })
   .when("/red", {
-    templateUrl : "red.htm"
+    templateUrl : "red.html"
   })
   .when("/blue", {
-    templateUrl : "green.htm"
+    templateUrl : "blue.html"
   })
   .when("/green", {
-    templateUrl : "blue.htm"
+    templateUrl : "green.htm"
   });
 });
