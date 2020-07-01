@@ -22,16 +22,16 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="#/!">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Red</a>
+        <a class="nav-link" href="#/!red">Red</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="#">Blue</a>
+        <a class="nav-link" href="#/!blue">Blue</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="#">Green</a>
+        <a class="nav-link" href="#/!green">Green</a>
       </li>
       
     </ul>
